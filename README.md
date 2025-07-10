@@ -31,6 +31,6 @@ input_folder_path = "C:/Users/YourName/Desktop/CAN_Logs"
 
 Run the script: Execute the script from your terminal.
 
-python merge_logs.py
+python can-log-merger.py
 
 Done!: A new file named merged_log.asc will be created in the same folder, containing all your merged data with corrected timestamps.

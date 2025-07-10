@@ -27,7 +27,7 @@ Organize your files: Place all the .asc log files you want to merge into a singl
 Update the script: Open merge_logs.py and modify the input_folder_path variable to the path of your folder.
 
 # Change this line to your folder's path
-input_folder_path = "C:/Users/YourName/Desktop/CAN_Logs"
+input_folder_path = "your folder's path"
 
 Run the script: Execute the script from your terminal.
 
